@@ -1,0 +1,50 @@
+
+body {
+    max-width: 100%;
+    max-height: 80%;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 10%, rgba(27,169,223,1) 5%, rgba(27,169,223,1) 5%);
+}
+body div img{
+    margin: 0;
+    padding: 0;
+}
+
+.main-text {
+    position: absolute;
+    top: 170px;
+    right: 170px;
+    font-size: 72px;
+    color: white;
+    text-align: center;
+}
+
+.input {
+    position: absolute;
+    top: 430px;
+    right: 200px;
+}
+
+.cellphone {
+    width: 300px;
+    height: 40px;
+    color: rgb(140, 140, 140);
+    font-size: 22px;
+    text-align: center;
+    border-width: 0ch;
+}
+
+.pass {
+    width: 300px;
+    height: 43px;
+    background-color: rgb(79, 193, 33);
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    border-width: 0ch;
+}
+
+#cbox1 {
+    font-size: 14px;
+    color: white;
+}
