@@ -1,14 +1,20 @@
+@font-face {
+    font-family: 'TelefonicaWeb-Regular';
+    src: 
+        url('../assets/fonts/TelefonicaWeb-Regular.eot')format('embedded-opentype'),
+        url('../assets/fonts/TelefonicaWeb-Regular.woff') format('woff'), 
+        url('../assets/fonts/TelefonicaWeb-Regular.svg') format('svg');
+}
+
 * {
     padding: 0;
     margin: 0;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    
 }
 
-// body {
-//     font-family: ;
-// }
 
 nav {
     background-color: white;
@@ -29,6 +35,10 @@ nav ul li {
 nav ul li select {
     border: 0px;
     outline: 0px;
+    font-family: 'TelefonicaWeb-Regular';
+    font-weight: bold;
+    color: rgb(80, 83, 90);
+    
 }
 label.logo {
     line-height: 80px;

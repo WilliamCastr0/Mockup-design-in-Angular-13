@@ -1,3 +1,18 @@
+@font-face {
+    font-family: 'TelefonicaWeb-Light';
+    src: 
+        url('../assets/fonts/TelefonicaWeb-Light.eot')format('embedded-opentype'),
+        url('../assets/fonts/TelefonicaWeb-Light.woff') format('woff'), 
+        url('../assets/fonts/TelefonicaWeb-Light.svg') format('svg');
+}
+
+@font-face {
+    font-family: 'TelefonicaWeb-Regular';
+    src: 
+        url('../assets/fonts/TelefonicaWeb-Regular.eot')format('embedded-opentype'),
+        url('../assets/fonts/TelefonicaWeb-Regular.woff') format('woff'), 
+        url('../assets/fonts/TelefonicaWeb-Regular.svg') format('svg');
+}
 
 body {
     max-width: 100%;
@@ -19,6 +34,7 @@ body div img{
     font-size: 72px;
     color: white;
     text-align: center;
+    font-family: 'TelefonicaWeb-Light';
 }
 
 body .add-number {
@@ -36,6 +52,7 @@ body .add-number {
     font-size: 22px;
     text-align: center;
     border-width: 0ch;
+    font-family: 'TelefonicaWeb-Light';
 }
 
 .pass {
@@ -46,11 +63,14 @@ body .add-number {
     font-size: 24px;
     text-align: center;
     border-width: 0ch;
+    font-family: 'TelefonicaWeb-Light';
+    font-weight: bold;
 }
 
 #cbox1 {
     font-size: 14px;
     color: white;
+    font-family: 'TelefonicaWeb-Light';
 }
 
 .text {
@@ -60,6 +80,7 @@ body .add-number {
     font-size: 36px;
     color: rgb(80, 83, 90);
     text-align: center;
+    font-family: 'TelefonicaWeb-Regular';
 }
 
 .star {
