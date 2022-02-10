@@ -1,4 +1,4 @@
-# Gdot Challenge
+# Diseño de un Mockup en Angular 13
 
 Este proyecto fue realizado con [Angular CLI](https://github.com/angular/angular-cli) en la version 13.1.2.
 
