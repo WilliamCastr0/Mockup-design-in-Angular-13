@@ -14,7 +14,6 @@ Para iniciar el proyecto ejecuta el comando `ng serve` dentro de la carpeta. Una
 
 Para la elaboración del proyecto se implementaron ayudas situadas en las siguientes páginas:
 
-    Documentos internos del proyecto (fonts y diseño .psd)
     https://www.w3schools.com/cssref/sel_hover.asp
     https://www.codingnepalweb.com/responsive-navigation-menu-bar-html-css/
     https://www.w3schools.com/howto/howto_css_cards.asp
